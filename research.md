@@ -18,21 +18,35 @@ pubs:
 
 pros:
 
-    - title:   "To be continued"
+    - title:   "行人密度估计系统"
       author:  "P. Wu, J. Liu"
-      note:    "presented at Oz"
+      note:    "适用于人流量大的公共场所"
       year:    "2017"
       url:     "http://publish-more-stuff.org"
-      image:   "https://i.loli.net/2018/04/09/5acac4de8f0fc.bmp"
+      image:   "https://i.loli.net/2018/04/09/5acb04297f1e5.bmp"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+        - name: "Demo"
+          url:  "https://i.loli.net/2018/04/09/5acb04297f1e5.bmp"
+
+    - title:   "车辆检测和计数系统"
+      author:  "P. Wu, Q. S. Qian, F. Shen, J. Liu"
+      note:    "适用于交通部门"
+      year:    "2018"
+      url:     "http://publish-more-stuff.org"
+      image:   ""
+      media:
+        - name: "Demo"
+          url:  ""
 
 
 
 ---
 
 ## Publications (peer reviewed)
+
+- #### 1 paper [*under review*]
+
+- #### 1 paper [*manuscript*]
 
 {% assign thumbnail="left" %}
 
@@ -51,7 +65,7 @@ pros:
 
 ---
 
-## Projects
+## Projects(practiced)
 
 {% assign thumbnail="left" %}
 
@@ -64,6 +78,8 @@ pros:
 *{{pro.note}}*
  *{{pro.year}}* 
 {% if pro.media %}<br />Media: {% for article in pro.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+
+![console](https://i.loli.net/2018/04/09/5acb04297f1e5.bmp)
 
 {% endfor %}
 
