@@ -25,6 +25,3 @@ I am a first-year PhD student in the Key Laboratory of Intelligent Perception an
 ### Research Interests
 
 Abnormal Detection in Videos; Deep Learning; Machine Learning; Video Analysis; Complex Network
-
-
-
