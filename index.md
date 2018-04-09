@@ -4,7 +4,7 @@ title: About Me
 permalink: /
 ---
 
-{% include image.html url="images/me.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/youandme.jpg" caption="" max_width="30px" align="right" %}
 
 #### Peng Wu
 
