@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Here is the much awaited blog.
+Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 <ul class="listing">
 {% for post in site.posts %}
