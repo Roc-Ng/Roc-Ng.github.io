@@ -8,9 +8,9 @@ Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 **News!**
 
-new blog is released[看DCGAN源代码 记录遇到的好玩的事情](https://blog.csdn.net/windows_peng/article/details/79871948)
+2018-04-10 new blog is released[看DCGAN源代码 记录遇到的好玩的事情](https://blog.csdn.net/windows_peng/article/details/79871948)
 
-
+2018-04-12 new blog is released[Future Frame Prediction for Anomaly Detection 代码学习](https://blog.csdn.net/windows_peng/article/details/79905075)
 
 <ul class="listing">
 {% for post in site.posts %}
