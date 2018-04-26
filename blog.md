@@ -14,6 +14,8 @@ Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 2018-04-26  About PCA (Principal Component Analysis), I highly recommend this [Ufldl(Chinese)](http://ufldl.stanford.edu/wiki/index.php/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) &[Ufldl](http://ufldl.stanford.edu/wiki/index.php/PCA)
 
+2018-04-27  I implement PCA (Principal Component Analysis) using python [code](https://blog.csdn.net/windows_peng/article/details/80099666)
+
 
 
 <ul class="listing">
