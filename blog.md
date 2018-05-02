@@ -16,7 +16,7 @@ Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 2018-04-27  I implement PCA (Principal Component Analysis) using python [code](https://blog.csdn.net/windows_peng/article/details/80099666)
 
-2018-05-02  new blog is released [YOLOv1 YOLOv2 个人解读和部分代码注释 ](2018-04-27  I implement PCA (Principal Component Analysis) using python [code](https://blog.csdn.net/windows_peng/article/details/80099666))
+2018-05-02  new blog is released [YOLOv1 YOLOv2 个人解读和部分代码注释 ](https://blog.csdn.net/windows_peng/article/details/80168327)
 
 
 
