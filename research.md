@@ -4,11 +4,11 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "To be continued"
-      author:  "P. Wu, J. Liu"
-      journal: "Transactions on XXX"
+    - title:   "'Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
+      author:  "F. Sheng, J. Liu and P. Wu"
+      conference: "ICIP"
       note:    "(presented at Oz)"
-      year:    "201x"
+      year:    "2018"
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
