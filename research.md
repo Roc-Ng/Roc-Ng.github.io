@@ -58,7 +58,7 @@ pros:
   {% if pub.image %}
   {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
   {% endif %}
-  [**{{pro.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
   {{pub.author}}<br />
   *{{pub.conference}}*
    *{{pub.year}}* 
