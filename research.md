@@ -46,9 +46,16 @@ pros:
 
 - #### 2 papers [*under review*]
 
-- #### accepted or published:
+  ---
+
+  
+
+- ### accepted or published:
 
   **Double Complete D-LBP with Extreme Learning Machine Auto-Encoder and Cascade Forest for Facial Expression Analysis**
+
+  
+
   F. Sheng, J. Liu and P. Wu
 
   in the IEEE International Conference on Image Processing (ICIP), 2018
