@@ -54,15 +54,15 @@ pros:
 
   {% assign thumbnail="left" %}
 
-  {% for pro in page.pros %}
-  {% if pro.image %}
-  {% include image.html url=pro.image caption="" height="100px" align=thumbnail %}
+  {% for pub in page.pubs %}
+  {% if pub.image %}
+  {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
   {% endif %}
   [**{{pro.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-  {{pro.author}}<br />
-  *{{pro.conference}}*
-   *{{pro.year}}* 
-  {% if pro.media %}<br />Media: {% for article in pro.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+  {{pub.author}}<br />
+  *{{pub.conference}}*
+   *{{pub.year}}* 
+  {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
   {% endfor %}
 
