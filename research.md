@@ -44,9 +44,10 @@ pros:
 
 ## Publications (peer reviewed)
 
-- #### 1 paper [*under review*]
+- #### 2 papers [*under review*]
 
-- #### 1 paper [*manuscript*]
+  
+
 
 {% assign thumbnail="left" %}
 
