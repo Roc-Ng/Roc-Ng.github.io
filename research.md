@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "'Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
+    - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "F. Sheng, J. Liu and P. Wu"
       conference: "ICIP"
       note:    "(presented at Oz)"
@@ -46,23 +46,14 @@ pros:
 
 - #### 2 papers [*under review*]
 
-  
+- #### accepted or published:
+
+  **Double Complete D-LBP with Extreme Learning Machine Auto-Encoder and Cascade Forest for Facial Expression Analysis**
+  F. Sheng, J. Liu and P. Wu
+
+  in the IEEE International Conference on Image Processing (ICIP), 2018
 
 
-{% assign thumbnail="left" %}
-
-{% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-
-{% endfor %}
 
 ---
 
