@@ -6,7 +6,7 @@ pubs:
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "F. Sheng, J. Liu and P. Wu"
-      conference: "ICIP"
+      conference: "in the IEEE International Conference on Image Processing (ICIP)"
       note:    "(presented at Oz)"
       year:    "2018"
       url:     "http://publish-more-stuff.org"
@@ -52,13 +52,21 @@ pros:
 
 - ### accepted or published:
 
-  **Double Complete D-LBP with Extreme Learning Machine Auto-Encoder and Cascade Forest for Facial Expression Analysis**
+  {% assign thumbnail="left" %}
 
-  F. Sheng, J. Liu and P. Wu
+  {% for pro in page.pros %}
+  {% if pro.image %}
+  {% include image.html url=pro.image caption="" height="100px" align=thumbnail %}
+  {% endif %}
+  [**{{pro.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+  {{pro.author}}<br />
+  *{{pro.conference}}*
+   *{{pro.year}}* 
+  {% if pro.media %}<br />Media: {% for article in pro.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
-  in the IEEE International Conference on Image Processing (ICIP), 2018
+  {% endfor %}
 
-
+  
 
 ---
 
