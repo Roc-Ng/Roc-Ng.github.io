@@ -26,7 +26,7 @@ Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 2018-10-25 [Tensorflow Data API](https://mp.csdn.net/postedit/83376618)
 
-2018-11-05 [[【Temporal Segment Networks】 pytorch代码总结](https://mp.csdn.net/postedit/83751283) ](https://mp.csdn.net/postedit/83751283)
+2018-11-05 [【Temporal Segment Networks】 pytorch代码总结](https://mp.csdn.net/postedit/83751283)
 
 <ul class="listing">
 {% for post in site.posts %}
