@@ -18,7 +18,15 @@ Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 2018-05-02  new blog is released [YOLOv1 YOLOv2 个人解读和部分代码注释 ](https://blog.csdn.net/windows_peng/article/details/80168327)
 
+2018-06-02 New blog [GPU版本光流算法](https://blog.csdn.net/windows_peng/article/details/80568114#commentsedit)
 
+2018-07-30 New blog [Pyinstaller 打包遇到的一系列问题的解决方案](https://mp.csdn.net/mdeditor/81285658#)
+
+2018-09-10 [pytorch 之坑持续更新](https://mp.csdn.net/postedit/82596459)
+
+2018-10-25 [Tensorflow Data API](https://mp.csdn.net/postedit/83376618)
+
+2018-11-05 [[【Temporal Segment Networks】 pytorch代码总结](https://mp.csdn.net/postedit/83751283) ](https://mp.csdn.net/postedit/83751283)
 
 <ul class="listing">
 {% for post in site.posts %}

@@ -13,8 +13,20 @@ pubs:
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+        - name: "ICIP"
+          url:  "https://2018.ieeeicip.org/Papers/ViewPapers_MS.asp?PaperNum=1984"
+
+    - title:   "Hyperspectral Unmixing via Deep Convolutional Neural Networks"
+      author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, Peng Wu, Licheng Jiao"
+      conference: "IEEE Geoscience and Remote Sensing Letters "
+      note:    "(presented at Oz)"
+      year:    "2018"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      media:
+        - name: "GRSL"
+          url:  "https://ieeexplore.ieee.org/document/8432512"
 
 pros:
 
