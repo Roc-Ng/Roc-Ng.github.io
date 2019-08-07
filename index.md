@@ -25,3 +25,10 @@ I am a second-year PhD student in the Key Laboratory of Intelligent Perception a
 ### Research Interests
 
 Abnormal Detection in Videos; Deep Learning; Machine Learning; Video Analysis; Complex Network
+
+------
+
+### News
+
+My First Paper "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes " is accepted by TNNLS(IF: 11.683 )  [2019-08-02]
+
