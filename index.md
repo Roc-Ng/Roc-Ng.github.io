@@ -4,7 +4,7 @@ title: About Me
 permalink: /
 ---
 
-{% include image.html url="images/me.jpg" caption="" max_width="30px" align="right" %}
+{% include image.html url="images/me.jpg" caption="" max_width="20px" align="right" %}
 
 #### Peng Wu
 
@@ -30,5 +30,7 @@ Abnormal Detection in Videos; Deep Learning; Machine Learning; Video Analysis; C
 
 ### News
 
-My First Paper "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes " is accepted by TNNLS(IF: 11.683 )  [2019-08-02]
+Congratulations to Yujia on receiving the National Scholarship~ [2018-11-16]
+
+My First Paper "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes " is accepted to TNNLS(IF: 11.683 )  [2019-08-02]
 
