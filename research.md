@@ -3,6 +3,17 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
+      author:  "P.Wu, J. Liu and F.Shen"
+      conference: "IEEE Transactions on Neural Networks and Learning Systems"
+      note:    "(presented at Oz)"
+      year:    "2019 [IF:11.683]"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      link:
+        - name: "TNNLS"
+          url:  "https://roc-ng.github.io/research/"
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "F. Sheng, J. Liu and P. Wu"
@@ -12,19 +23,19 @@ pubs:
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
+      link:
         - name: "ICIP"
           url:  "https://2018.ieeeicip.org/Papers/ViewPapers_MS.asp?PaperNum=1984"
 
     - title:   "Hyperspectral Unmixing via Deep Convolutional Neural Networks"
       author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, Peng Wu, Licheng Jiao"
-      conference: "IEEE Geoscience and Remote Sensing Letters "
+      conference: "IEEE Transcations on Geoscience and Remote Sensing Letters"
       note:    "(presented at Oz)"
-      year:    "2018"
+      year:    "2018 [IF:3.534]"
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
+      link:
         - name: "GRSL"
           url:  "https://ieeexplore.ieee.org/document/8432512"
 
@@ -54,13 +65,7 @@ pros:
 
 ---
 
-## Publications (peer reviewed)
-
-- #### 2 papers [*under review*]
-
-  ---
-
-  
+## Publications
 
 - ### accepted or published:
 
@@ -72,7 +77,7 @@ pros:
   {{pub.author}}<br />
   *{{pub.conference}}*
    *{{pub.year}}* 
-  {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+  {% if pub.link %}<br />Link: {% for article in pub.link %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
   {% endfor %}
 
@@ -80,7 +85,7 @@ pros:
 
 ---
 
-## Projects(practiced)
+## Projects
 
 {% assign thumbnail="left" %}
 
