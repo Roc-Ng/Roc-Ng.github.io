@@ -3,8 +3,20 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Fast Sparse Coding Networks for Anomaly Detection in Videos"
+      author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
+      conference: "Pattern Recognition"
+      note:    "(presented at Oz)"
+      year:    "2020 [IF:5.898]"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      link:
+        - name: "PR"
+          url:  "https://roc-ng.github.io/research/"
+
     - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
-      author:  "P.Wu, J. Liu and F.Shen"
+      author:  "Peng Wu, Jing Liu, Fang Shen"
       conference: "IEEE Transactions on Neural Networks and Learning Systems"
       note:    "(presented at Oz)"
       year:    "2019 [IF:11.683]"
@@ -16,7 +28,7 @@ pubs:
           url:  "https://roc-ng.github.io/research/"
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
-      author:  "F. Sheng, J. Liu and P. Wu"
+      author:  "Fang Sheng, Jing Liu, Peng Wu"
       conference: "in the IEEE International Conference on Image Processing (ICIP)"
       note:    "(presented at Oz)"
       year:    "2018"
@@ -42,7 +54,7 @@ pubs:
 pros:
 
     - title:   "行人密度估计系统"
-      author:  "P. Wu, J. Liu"
+      author:  "Peng Wu, Jing Liu"
       note:    "适用于人流量大的公共场所"
       year:    "【2017】"
       url:     "http://publish-more-stuff.org"
@@ -52,9 +64,19 @@ pros:
           url:  "https://i.loli.net/2018/04/09/5acb04297f1e5.bmp"
 
     - title:   "车辆检测和计数系统"
-      author:  "P. Wu, Q. S. Qian, F. Shen, J. Liu"
-      note:    "适用于交通部门"
+      author:  "Peng Wu, Qiansheng Yang, Jiahao Liu, Jing Liu"
+      note:    "上线于市政部门"
       year:    "【2018】"
+      url:     "http://publish-more-stuff.org"
+      image:   ""
+      media:
+        - name: "Demo"
+          url:  ""
+
+    - title:   "新冠肺炎影像检测"
+      author:  "Peng Wu, Zhiwei Yang, Zhaoyang Wu, Fangtao Shao, Jing Liu"
+      note:    "U-Net"
+      year:    "【2020】"
       url:     "http://publish-more-stuff.org"
       image:   ""
       media:
