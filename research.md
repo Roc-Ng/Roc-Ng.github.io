@@ -3,36 +3,48 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+
+    - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
+      author:  "Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
+      conference: "European Conference on Computer Vision"
+      note:    "(presented at Oz)"
+      year:    "2020"
+      url:     "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      link:
+        - name: "ECCV"
+          url:  "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
     - title:   "Fast Sparse Coding Networks for Anomaly Detection in Videos"
       author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
       conference: "Pattern Recognition"
       note:    "(presented at Oz)"
       year:    "2020 [IF:5.898]"
-      url:     "http://publish-more-stuff.org"
+      url:     "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
         - name: "PR"
-          url:  "https://roc-ng.github.io/research/"
+          url:  "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
 
     - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
       author:  "Peng Wu, Jing Liu, Fang Shen"
       conference: "IEEE Transactions on Neural Networks and Learning Systems"
       note:    "(presented at Oz)"
       year:    "2019 [IF:11.683]"
-      url:     "http://publish-more-stuff.org"
+      url:     "https://ieeexplore.ieee.org/abstract/document/8825555/"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
         - name: "TNNLS"
-          url:  "https://roc-ng.github.io/research/"
+          url:  "https://ieeexplore.ieee.org/abstract/document/8825555/"
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "Fang Sheng, Jing Liu, Peng Wu"
-      conference: "in the IEEE International Conference on Image Processing (ICIP)"
+      conference: "IEEE International Conference on Image Processing (ICIP)"
       note:    "(presented at Oz)"
       year:    "2018"
-      url:     "http://publish-more-stuff.org"
+      url:     "https://2018.ieeeicip.org/Papers/ViewPapers_MS.asp?PaperNum=1984"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
@@ -44,7 +56,7 @@ pubs:
       conference: "IEEE Transcations on Geoscience and Remote Sensing Letters"
       note:    "(presented at Oz)"
       year:    "2018 [IF:3.534]"
-      url:     "http://publish-more-stuff.org"
+      url:     "https://ieeexplore.ieee.org/document/8432512"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
