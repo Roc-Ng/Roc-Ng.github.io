@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XD-Violence
+title: XDViolence
 permalink: /xdviolence/
 ---
 
