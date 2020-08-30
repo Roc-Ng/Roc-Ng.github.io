@@ -19,7 +19,7 @@ pubs:
       author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
       conference: "Pattern Recognition"
       note:    "(presented at Oz)"
-      year:    "2020 [IF:5.898]"
+      year:    "2020 [IF:7.196]"
       url:     "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
