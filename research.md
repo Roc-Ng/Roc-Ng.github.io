@@ -3,18 +3,30 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    
+    - title:   "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection"
+      author:  "Peng Wu, Jing Liu"
+      conference: "IEEE Transactions on Image Processing"
+      note:    "(presented at Oz)"
+      year:    "2021 [IF:9.34]"
+      url:     "https://doi.org/10.1109/TIP.2021.3062192"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      link:
+        - name: "TIP"
+          url:  "https://doi.org/10.1109/TIP.2021.3062192"
 
     - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
       author:  "Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision"
       note:    "(presented at Oz)"
       year:    "2020"
-      url:     "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
+      url:     "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
         - name: "ECCV"
-          url:  "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
+          url:  "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
     - title:   "Fast Sparse Coding Networks for Anomaly Detection in Videos"
       author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
       conference: "Pattern Recognition"
