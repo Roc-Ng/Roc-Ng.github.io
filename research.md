@@ -15,7 +15,6 @@ pubs:
       link:
         - name: "TIP"
           url:  "https://doi.org/10.1109/TIP.2021.3062192"
-
     - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
       author:  "Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision"
