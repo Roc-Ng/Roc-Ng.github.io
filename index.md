@@ -37,5 +37,6 @@ My First Paper "A Deep One-Class Neural Network for Anomalous Event Detection in
 My Second Paper "Fast Sparse Coding Networks for Anomaly Detection in Videos" is accepted to PR(IF: 7.196 )  [2020-06-23]
 
 My Third Paper "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision" is accepted to ECCV [2020-07-03]
+
 My Fourth Paper "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection" is accepted to TIP(IF: 9.34, CCF-A) [2021-02-16]
 
