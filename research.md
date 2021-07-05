@@ -6,14 +6,14 @@ pubs:
     
     - title:   "HANet: Hierarchical Alignment Networks for Video-Text Retrieval"
       author:  "Peng Wu, Xiangteng He, Mingqian Tang, Yiliang Lv, Jing Liu"
-      conference: "ACM Multimedia 2021 conference"
+      conference: "ACM Multimedia conference"
       note:    "(presented at Oz)"
       year:    "2021"
       url:     "https://2021.acmmm.org/"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       link:
-        - name: "ECCV"
+        - name: "ACMMM"
           url:  "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
     - title:   "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection"
       author:  "Peng Wu, Jing Liu"
