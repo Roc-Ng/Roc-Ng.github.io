@@ -39,5 +39,6 @@ My Second Paper "Fast Sparse Coding Networks for Anomaly Detection in Videos" is
 My Third Paper "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision" is accepted to ECCV [2020-07-03]
 
 My Fourth Paper "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection" is accepted to TIP(IF: 9.34, CCF-A) [2021-02-16]
+
 My Fifth Paper "HANet: Hierarchical Alignment Networks for Video-Text Retrieval" is accepted to ACMMM(CCF-A) [2021-07-04]
 
