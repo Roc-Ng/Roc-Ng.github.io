@@ -99,8 +99,6 @@ pros:
         - name: "Demo"
           url:  ""
 
-
-
 ---
 
 ## Publications
