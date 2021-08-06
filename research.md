@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
     - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
-      author:  "Zhiwei Yang, Jing Liu, Peng Wu"
+      author:  "Zhiwei Yang, Jing Liu, **Peng Wu**"
       conference: "IEEE Access"
       note:    "(presented at Oz)"
       year:    "2021"
@@ -22,7 +22,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       
     - title:   "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection"
-      author:  "Peng Wu, Jing Liu"
+      author:  "**Peng Wu**, Jing Liu"
       conference: "IEEE Transactions on Image Processing (TIP)"
       note:    "(presented at Oz)"
       year:    "2021 [CCF-A, IF:9.34]"
@@ -31,7 +31,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
-      author:  "Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
+      author:  "**Peng Wu**, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision (ECCV)"
       note:    "(presented at Oz)"
       year:    "2020 [Top Conference]"
@@ -40,7 +40,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
      
     - title:   "Fast Sparse Coding Networks for Anomaly Detection in Videos"
-      author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
+      author:  "**Peng Wu**, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
       conference: "Pattern Recognition (PR)"
       note:    "(presented at Oz)"
       year:    "2020 [IF:7.196]"
@@ -49,7 +49,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
-      author:  "Peng Wu, Jing Liu, Fang Shen"
+      author:  "**Peng Wu**, Jing Liu, Fang Shen"
       conference: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
       note:    "(presented at Oz)"
       year:    "2019 [IF:11.683]"
@@ -58,7 +58,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
-      author:  "Fang Sheng, Jing Liu, Peng Wu"
+      author:  "Fang Shen, Jing Liu, **Peng Wu**"
       conference: "IEEE International Conference on Image Processing (ICIP)"
       note:    "(presented at Oz)"
       year:    "2018"
@@ -67,7 +67,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "Hyperspectral Unmixing via Deep Convolutional Neural Networks"
-      author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, Peng Wu, Licheng Jiao"
+      author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, **Peng Wu**, Licheng Jiao"
       conference: "IEEE Transcations on Geoscience and Remote Sensing Letters (TGRSL)"
       note:    "(presented at Oz)"
       year:    "2018 [IF:3.534]"
@@ -78,7 +78,7 @@ pubs:
 pros:
 
     - title:   "行人密度估计系统"
-      author:  "Peng Wu, Jing Liu"
+      author:  "**Peng Wu**, Jing Liu"
       note:    "适用于人流量大的公共场所"
       year:    "【2017】"
       url:     "http://publish-more-stuff.org"
@@ -88,19 +88,9 @@ pros:
           url:  "https://i.loli.net/2018/04/09/5acb04297f1e5.bmp"
 
     - title:   "车辆检测和计数系统"
-      author:  "Peng Wu, Qiansheng Yang, Jiahao Liu, Jing Liu"
+      author:  "**Peng Wu**, Qiansheng Yang, Jiahao Liu, Jing Liu"
       note:    "上线于市政部门"
       year:    "【2018】"
-      url:     "http://publish-more-stuff.org"
-      image:   ""
-      media:
-        - name: "Demo"
-          url:  ""
-
-    - title:   "新冠肺炎影像检测"
-      author:  "Peng Wu, Zhiwei Yang, Zhaoyang Wu, Fangtao Shao, Jing Liu"
-      note:    "U-Net"
-      year:    "【2020】"
       url:     "http://publish-more-stuff.org"
       image:   ""
       media:
