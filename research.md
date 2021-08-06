@@ -3,6 +3,14 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
+      author:  "Zhiwei Yang, Jing Liu, Peng Wu"
+      conference: "IEEE Access"
+      note:    "(presented at Oz)"
+      year:    "2021"
+      url:     "https://ieeexplore.ieee.org/abstract/document/9499069/"
+      doi:     "http://dx.doi.org"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
     
     - title:   "HANet: Hierarchical Alignment Networks for Video-Text Retrieval"
       author:  "Peng Wu, Xiangteng He, Mingqian Tang, Yiliang Lv, Jing Liu"
