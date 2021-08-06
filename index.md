@@ -18,7 +18,7 @@ Email: [[xdwupeng@gmail.com](xdwupeng@gmail.com)]
 
 ### Biography
 
-I am a fourth-year PhD student in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I am also a Research Intern of Alibaba DAMO Academy (2020-12--2021.7).
+I am a fourth-year PhD student in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I am also a Research Intern of Alibaba DAMO Academy (2020-12--2021-7).
 
 ---
 
