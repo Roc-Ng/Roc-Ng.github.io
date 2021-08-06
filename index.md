@@ -31,11 +31,11 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
-+ One paper was accepted to IEEE ACCESS, Congrats to Zhiwei! [2021-07-20]
-+ My 5th Paper "HANet: Hierarchical Alignment Networks for Video-Text Retrieval" is accepted to ACMMM(CCF-A) [2021-07-04]
-+ My 4th Paper "Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection" is accepted to TIP(IF: 9.34, CCF-A) [2021-02-16]
-+ My 3rd Paper "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision" is accepted to ECCV [2020-07-03]
-+ My 2nd Paper "Fast Sparse Coding Networks for Anomaly Detection in Videos" is accepted to PR(IF: 7.196 )  [2020-06-23]
-+ My 1st Paper "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes " is accepted to TNNLS(IF: 11.683 )  [2019-08-02]
++ One paper is accepted to IEEE ACCESS, Congrats to Zhiwei! [2021-07-20]
++ 5th paper is accepted to ACMMM(CCF-A) [2021-07-04]
++ 4th Paper is accepted to TIP(IF: 9.34, CCF-A) [2021-02-16]
++ 3rd Paper is accepted to ECCV [2020-07-03]
++ 2nd Paper is accepted to PR(IF: 7.196 )  [2020-06-23]
++ 1st Paper is accepted to TNNLS(IF: 11.683 )  [2019-08-02]
 + Congratulations to Yujia on receiving the National Scholarship! [2018-11-16]
 
