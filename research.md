@@ -101,7 +101,6 @@ pros:
 
 ## Publications
 
-- ### accepted or published:
 
   {% assign thumbnail="left" %}
 
