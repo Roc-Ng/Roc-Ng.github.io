@@ -31,11 +31,11 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
-+ [2021-07-20]  One paper is accepted to *IEEE ACCESS*, Congrats to Zhiwei! 
-+ [2021-07-04]  5th paper is accepted to *ACM-MM* (CCF-A) 
-+ [2021-02-16]  4th Paper is accepted to *TIP* (IF: 9.34, CCF-A) 
-+ [2020-07-03]  3rd Paper is accepted to *ECCV* 
-+ [2020-06-23]  2nd Paper is accepted to *PR* (IF: 7.196 )  
-+ [2019-08-02]  1st Paper is accepted to *TNNLS* (IF: 11.683 )  
++ [2021-07-20]  One paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! 
++ [2021-07-04]  5th paper is accepted to **ACM-MM** (CCF-A) 
++ [2021-02-16]  4th Paper is accepted to **TIP** (IF: 9.34, CCF-A) 
++ [2020-07-03]  3rd Paper is accepted to **ECCV** 
++ [2020-06-23]  2nd Paper is accepted to **PR** (IF: 7.196 )  
++ [2019-08-02]  1st Paper is accepted to **TNNLS** (IF: 11.683 )  
 + [2018-11-16]  Congratulations to Yujia on receiving the National Scholarship! 
 
