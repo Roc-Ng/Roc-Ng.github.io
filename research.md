@@ -9,7 +9,7 @@ pubs:
       conference: "ACM Multimedia conference"
       note:    "(presented at Oz)"
       year:    "2021"
-      url:     "https://2021.acmmm.org/"
+      url:     "https://arxiv.org/abs/2107.12059"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       
@@ -21,9 +21,7 @@ pubs:
       url:     "https://doi.org/10.1109/TIP.2021.3062192"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "TIP"
-          url:  "https://doi.org/10.1109/TIP.2021.3062192"
+
     - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
       author:  "Peng Wu, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision"
@@ -32,9 +30,7 @@ pubs:
       url:     "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "ECCV"
-          url:  "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
+     
     - title:   "Fast Sparse Coding Networks for Anomaly Detection in Videos"
       author:  "Peng Wu, Jing Liu, Mingming Li, Yujia Sun, Fang Shen"
       conference: "Pattern Recognition"
@@ -43,9 +39,6 @@ pubs:
       url:     "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "PR"
-          url:  "https://www.sciencedirect.com/science/article/abs/pii/S0031320320303186"
 
     - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
       author:  "Peng Wu, Jing Liu, Fang Shen"
@@ -55,9 +48,6 @@ pubs:
       url:     "https://ieeexplore.ieee.org/abstract/document/8825555/"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "TNNLS"
-          url:  "https://ieeexplore.ieee.org/abstract/document/8825555/"
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "Fang Sheng, Jing Liu, Peng Wu"
@@ -67,9 +57,6 @@ pubs:
       url:     "https://2018.ieeeicip.org/Papers/ViewPapers_MS.asp?PaperNum=1984"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "ICIP"
-          url:  "https://2018.ieeeicip.org/Papers/ViewPapers_MS.asp?PaperNum=1984"
 
     - title:   "Hyperspectral Unmixing via Deep Convolutional Neural Networks"
       author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, Peng Wu, Licheng Jiao"
@@ -79,9 +66,6 @@ pubs:
       url:     "https://ieeexplore.ieee.org/document/8432512"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      link:
-        - name: "GRSL"
-          url:  "https://ieeexplore.ieee.org/document/8432512"
 
 pros:
 
