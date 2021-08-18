@@ -31,7 +31,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
-+ [2021-08-18]  one paper is accepted to **PR**, Congrates to Fangtao!
++ [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
 + [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! 
 + [2021-07-04]  5th paper is accepted to **ACM-MM** (CCF-A)，Thx for my mentor, Dr.He! 
 + [2021-02-16]  4th paper is accepted to **TIP** (IF: 9.34, CCF-A) 
