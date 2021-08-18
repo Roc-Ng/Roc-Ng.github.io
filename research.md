@@ -10,7 +10,6 @@ pubs:
       year:    "2021"
       url:     ""
 
-     
     - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
       author:  "Zhiwei Yang, Jing Liu, **Peng Wu**"
       conference: "IEEE Access"
