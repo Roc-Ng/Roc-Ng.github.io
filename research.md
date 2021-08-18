@@ -5,9 +5,9 @@ title: Research
 pubs:
     - title:   "Exploiting Foreground and Background Separation for Prohibited Item Detection in Overlapping X-Ray Images"
       author:  "Fangtao Shao, Jing Liu, **Peng Wu**, Zhiwei Yang, Zhaoyang Wu"
-      conference: "Pattern Recognition [IF:7.74]"
+      conference: "Pattern Recognition (PR)"
       note:    "(presented at Oz)"
-      year:    "2021"
+      year:    "2021 [IF:7.74]"
       url:     ""
 
     - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
