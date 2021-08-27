@@ -14,7 +14,7 @@ Add: No. 2 South Taibai Road, Xi’an, Shaanxi 710071
 
 Email: [[xdwupeng@gmail.com](xdwupeng@gmail.com)]
 
-Github: [[github](https://github.com/Roc-Ng)]
+Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=QkNqUH4AAAAJ&hl=zh-CN)]
 
 ---
 
