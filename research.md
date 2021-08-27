@@ -3,6 +3,14 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+
+    - title:   "A Multi-Task Learning based Neural Network for Defect Detection on Textured Surfaces under Weak Supervision"
+      author:  "Xiaotao Liu, Kuikui He, Jing Liu, **Peng Wu**"
+      conference: "IEEE Transactions on Instrumentation & Measurement (TIM)"
+      note:    "(presented at Oz)"
+      year:    "2021 [IF:4.016]"
+      url:     "" 
+    
     - title:   "Exploiting Foreground and Background Separation for Prohibited Item Detection in Overlapping X-Ray Images"
       author:  "Fangtao Shao, Jing Liu, **Peng Wu**, Zhiwei Yang, Zhaoyang Wu"
       conference: "Pattern Recognition (PR)"
