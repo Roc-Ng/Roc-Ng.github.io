@@ -71,6 +71,14 @@ pubs:
       url:     "https://ieeexplore.ieee.org/abstract/document/8825555/"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      
+    - title:   "Evolutionary network embedding preserving both local proximity and community structure"
+      author:  "Mingming Li, Jing Liu, **Peng Wu**, Xiangyi Teng"
+      conference: "IEEE Transactions on Evolutionary Computation (TEC)"
+      note:    "(presented at Oz)"
+      year:    "2019 [IF:11.169]"
+      url:     "https://ieeexplore.ieee.org/document/8813062"
+
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
       author:  "Fang Shen, Jing Liu, **Peng Wu**"
