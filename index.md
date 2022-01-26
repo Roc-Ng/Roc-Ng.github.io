@@ -31,6 +31,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
++ [2022-01-26]  6th paper is accepted to **TMM** (IF: 6.513 ) 
 + [2021-10-16]  Congratulations to myself on receiving the **National Scholarship**!
 + [2021-08-27]  one paper is accepted to **TIM**, Congrats to KuiKui!
 + [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
