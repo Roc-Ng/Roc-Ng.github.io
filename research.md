@@ -3,20 +3,26 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
-
+    - title:   "Weakly Supervised Audio-Visual Violence Detection"
+      author:  "**Peng Wu**, Xiaotao Liu, Jing Liu"
+      conference: "IEEE Transactions on Multimedia (TMM)"
+      note:    "(presented at Oz)"
+      year:    "2021 [IF:6.513]"
+      url:     "" 
+      
     - title:   "A Multi-Task Learning based Neural Network for Defect Detection on Textured Surfaces under Weak Supervision"
       author:  "Kuikui He, Xiaotao Liu, Jing Liu, **Peng Wu**"
       conference: "IEEE Transactions on Instrumentation & Measurement (TIM)"
       note:    "(presented at Oz)"
       year:    "2021 [IF:4.016]"
-      url:     "" 
+      url:     "https://ieeexplore.ieee.org/abstract/document/9537788" 
     
     - title:   "Exploiting Foreground and Background Separation for Prohibited Item Detection in Overlapping X-Ray Images"
       author:  "Fangtao Shao, Jing Liu, **Peng Wu**, Zhiwei Yang, Zhaoyang Wu"
       conference: "Pattern Recognition (PR)"
       note:    "(presented at Oz)"
       year:    "2021 [IF:7.74]"
-      url:     ""
+      url:     "https://www.sciencedirect.com/science/article/pii/S0031320321004416"
 
     - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
       author:  "Zhiwei Yang, Jing Liu, **Peng Wu**"
