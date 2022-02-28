@@ -8,7 +8,7 @@ pubs:
       conference: "IEEE Transactions on Multimedia (TMM)"
       note:    "(presented at Oz)"
       year:    "2021 [IF:6.513]"
-      url:     "" 
+      url:     "https://ieeexplore.ieee.org/abstract/document/9699377" 
       
     - title:   "A Multi-Task Learning based Neural Network for Defect Detection on Textured Surfaces under Weak Supervision"
       author:  "Kuikui He, Xiaotao Liu, Jing Liu, **Peng Wu**"
