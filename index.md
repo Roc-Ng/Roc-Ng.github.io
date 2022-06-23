@@ -20,7 +20,7 @@ Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=Q
 
 ### Biography
 
-I am a final-year PhD student (2021-2022) in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7).
+I am a final-year PhD student (2021-2022) in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). [Link](https://news.xidian.edu.cn/info/2106/221061.htm)
 
 ---
 
@@ -32,7 +32,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 
 ### News
 + [2022-01-26]  6th paper is accepted to **TMM** (IF: 6.513 ) 
-+ [2021-10-16]  Congratulations to myself on receiving the **National Scholarship**![Link](https://news.xidian.edu.cn/info/2106/221061.htm)
++ [2021-10-16]  Congratulations to myself on receiving the **National Scholarship**!
 + [2021-08-27]  one paper is accepted to **TIM**, Congrats to KuiKui!
 + [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
 + [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! 
