@@ -20,7 +20,7 @@ Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=Q
 
 ### Biography
 
-I am a final-year PhD student (2021-2022) in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). [Link](https://news.xidian.edu.cn/info/2106/221061.htm)
+I am a final-year PhD student (2021-2022) in the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/ ) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University , advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/). I received my B.Eng from School of  Electronic Engineering at Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). 
 
 ---
 
