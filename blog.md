@@ -7,6 +7,7 @@ permalink: /blog/
 Please click [CSDN](https://blog.csdn.net/windows_peng)
 
 **News!**
+2022-06-22 [国奖人物](https://news.xidian.edu.cn/info/2106/221061.htm)
 
 2018-04-10 new blog is released [看DCGAN源代码 记录遇到的好玩的事情](https://blog.csdn.net/windows_peng/article/details/79871948)
 
