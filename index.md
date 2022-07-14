@@ -20,7 +20,7 @@ Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=Q
 
 ### Biography
 
-I am an associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html)）at Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). 
+<span style="float:justify">I am an associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html)）at Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). </span>
 
 ---
 
