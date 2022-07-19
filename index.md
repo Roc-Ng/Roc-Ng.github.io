@@ -8,9 +8,11 @@ permalink: /
 
 ### Peng Wu 吴鹏
 
-PhD Candidate of Xidian University, Xi'an, Shaanxi, China
+Associate Professor, Ph.D.
 
-Add: No. 2 South Taibai Road, Xi’an, Shaanxi 710071
+Northwestern Polytechnical University (NWPU)
+
+Add: 1 Dongxiang Road, Chang'an District, Xi’an, Shaanxi, 710129, P.R.China
 
 Email: [[xdwupeng@gmail.com](xdwupeng@gmail.com)]
 
@@ -20,7 +22,7 @@ Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=Q
 
 ### Biography
 
-<span style="float:justify">I am an associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html)）at Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). </span>
+<span style="float:justify">I am currently an associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html), Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was also a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7). </span>
 
 ---
 
