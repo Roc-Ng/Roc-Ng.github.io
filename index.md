@@ -12,9 +12,9 @@ Associate Professor, Ph.D.
 
 Northwestern Polytechnical University (NWPU)
 
-Add: 1 Dongxiang Road, Chang'an District, Xi’an, Shaanxi, 710129, P.R.China
+Add: 1 Dongxiang Road, Chang'an District, Xi’an, Shaanxi, 710129
 
-Email: [[xdwupeng@gmail.com](xdwupeng@gmail.com)]
+Email: [[xdwupeng@gmail.com](xdwupeng@gmail.com)], [[pengwu@nwpu.edu.cn](pengwu@nwpu.edu.cn)]
 
 Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=QkNqUH4AAAAJ&hl=zh-CN)]
 
@@ -35,7 +35,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ### News
 + [2022-07-17]  one paper is accepted to **ECCV**, Congrats to Zhiwei!
 + [2022-01-26]  6th paper is accepted to **TMM** (IF: 6.513 ) 
-+ [2021-10-16]  Congratulations to myself on receiving the **National Scholarship**!
++ [2021-10-16]  I am awarded the **National Scholarship** (PhD), Thx for my advisor, Prof. Liu!
 + [2021-08-27]  one paper is accepted to **TIM**, Congrats to KuiKui!
 + [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
 + [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! 
