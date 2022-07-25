@@ -4,6 +4,13 @@ permalink: /research/
 title: Research
 pubs:
     - title:   "Weakly Supervised Audio-Visual Violence Detection"
+      author:  "Zhiwei Yang, **Peng Wu***, Jing Liu*, Xiaotao Liu"
+      conference: "European Conference on Computer Vision (ECCV)"
+      note:    "(presented at Oz)"
+      year:    "2022 [Top Conference]"
+      url:     "https://arxiv.org/abs/2207.10948" 
+      
+    - title:   "Weakly Supervised Audio-Visual Violence Detection"
       author:  "**Peng Wu**, Xiaotao Liu, Jing Liu"
       conference: "IEEE Transactions on Multimedia (TMM)"
       note:    "(presented at Oz)"
@@ -11,7 +18,7 @@ pubs:
       url:     "https://ieeexplore.ieee.org/abstract/document/9699377" 
       
     - title:   "A Multi-Task Learning based Neural Network for Defect Detection on Textured Surfaces under Weak Supervision"
-      author:  "Kuikui He, Xiaotao Liu, Jing Liu, **Peng Wu**"
+      author:  "Kuikui He, Xiaotao Liu, Jing Liu*, **Peng Wu**"
       conference: "IEEE Transactions on Instrumentation & Measurement (TIM)"
       note:    "(presented at Oz)"
       year:    "2021 [IF:4.016]"
@@ -25,7 +32,7 @@ pubs:
       url:     "https://www.sciencedirect.com/science/article/pii/S0031320321004416"
 
     - title:   "Bidirectional Retrospective Generation Adversarial Network for Anomaly Detection in Videos"
-      author:  "Zhiwei Yang, Jing Liu, **Peng Wu**"
+      author:  "Zhiwei Yang, Jing Liu*, **Peng Wu**"
       conference: "IEEE Access"
       note:    "(presented at Oz)"
       year:    "2021"
@@ -34,7 +41,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
     
     - title:   "HANet: Hierarchical Alignment Networks for Video-Text Retrieval"
-      author:  "**Peng Wu**, Xiangteng He, Mingqian Tang, Yiliang Lv, Jing Liu"
+      author:  "**Peng Wu**, Xiangteng He*, Mingqian Tang, Yiliang Lv, Jing Liu*"
       conference: "ACM Multimedia conference (ACM-MM)"
       note:    "(presented at Oz)"
       year:    "2021 [CCF-A]"
@@ -52,7 +59,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision"
-      author:  "**Peng Wu**, Jing Liu, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
+      author:  "**Peng Wu**, Jing Liu*, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision (ECCV)"
       note:    "(presented at Oz)"
       year:    "2020 [Top Conference]"
@@ -70,7 +77,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "A Deep One-Class Neural Network for Anomalous Event Detection in Complex Scenes"
-      author:  "**Peng Wu**, Jing Liu, Fang Shen"
+      author:  "**Peng Wu**, Jing Liu*, Fang Shen"
       conference: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
       note:    "(presented at Oz)"
       year:    "2019 [IF:11.683]"
@@ -79,7 +86,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       
     - title:   "Evolutionary network embedding preserving both local proximity and community structure"
-      author:  "Mingming Li, Jing Liu, **Peng Wu**, Xiangyi Teng"
+      author:  "Mingming Li, Jing Liu*, **Peng Wu**, Xiangyi Teng"
       conference: "IEEE Transactions on Evolutionary Computation (TEC)"
       note:    "(presented at Oz)"
       year:    "2019 [IF:11.169]"
@@ -87,7 +94,7 @@ pubs:
 
 
     - title:   "Double complete D-LBP with extreme learning machine auto-encoder and cascade forest for facial expression analysis"
-      author:  "Fang Shen, Jing Liu, **Peng Wu**"
+      author:  "Fang Shen, Jing Liu*, **Peng Wu**"
       conference: "IEEE International Conference on Image Processing (ICIP)"
       note:    "(presented at Oz)"
       year:    "2018"
@@ -96,7 +103,7 @@ pubs:
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
 
     - title:   "Hyperspectral Unmixing via Deep Convolutional Neural Networks"
-      author:  "Xiangrong Zhang, Yujia Sun, Jingyan Zhang, **Peng Wu**, Licheng Jiao"
+      author:  "Xiangrong Zhang*, Yujia Sun, Jingyan Zhang, **Peng Wu**, Licheng Jiao"
       conference: "IEEE Transcations on Geoscience and Remote Sensing Letters (TGRSL)"
       note:    "(presented at Oz)"
       year:    "2018 [IF:3.534]"
