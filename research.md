@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
     - title:   "Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection"
-      author:  "Zhiwei Yang, **Peng Wu"*"**, Jing Liu"*", Xiaotao Liu"
+      author:  "Zhiwei Yang, **Peng Wu**, Jing Liu, Xiaotao Liu"
       conference: "European Conference on Computer Vision (ECCV)"
       note:    "(presented at Oz)"
       year:    "2022 [Top Conference]"
