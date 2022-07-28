@@ -38,7 +38,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 + [2021-10-16]  I am awarded the **National Scholarship** (PhD), Thx for my advisor, Prof. Liu!
 + [2021-08-27]  one paper is accepted to **TIM**, Congrats to KuiKui!
 + [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
-+ [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! 
+<!-- + [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! -->
 + [2021-07-04]  5th paper is accepted to **ACM-MM** (CCF-A)，Thx for my mentor, Dr.He! 
 + [2021-02-16]  4th paper is accepted to **TIP** (IF: 9.34, CCF-A) 
 + [2020-07-03]  3rd paper is accepted to **ECCV** 
