@@ -12,7 +12,7 @@ pubs:
      
     - title:   "Video Event Restoration Based on Keyframes for Video Anomaly Detection"
       author:  "Zhiwei Yang, Zhaoyang Wu, Jing Liu^, **Peng Wu**^, Xiaotao Liu"
-      conference: " IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      conference: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
       note:    "(presented at Oz)"
       year:    "2023 [CCF-A]"
       url:     "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Video_Event_Restoration_Based_on_Keyframes_for_Video_Anomaly_Detection_CVPR_2023_paper.pdf" 
