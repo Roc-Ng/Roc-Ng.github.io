@@ -3,6 +3,27 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "WSAD-Net: Weakly Supervised Anomaly Detection in Untrimmed Surveillance Videos"
+      author:  "**Peng Wu**, Yanning Zhang"
+      conference: "International Conference on Image and Graphics (ICIG)"
+      note:    "(presented at Oz)"
+      year:    "2023"
+      url:     "https:" 
+     
+    - title:   "Video Event Restoration Based on Keyframes for Video Anomaly Detection"
+      author:  "Zhiwei Yang, Zhaoyang Wu, Jing Liu^, **Peng Wu**^, Xiaotao Liu"
+      conference: " IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      note:    "(presented at Oz)"
+      year:    "2023 [CCF-A]"
+      url:     "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Video_Event_Restoration_Based_on_Keyframes_for_Video_Anomaly_Detection_CVPR_2023_paper.pdf" 
+      
+    - title:   "MemSeg: A Semi-supervised Method for Image Surface Defect Detection Using Differences and Commonalities"
+      author:  "Minghun Yang, **Peng Wu**, Hui Feng"
+      conference: "Engineering Applications of Artificial Intelligence (EAAI)"
+      note:    "(presented at Oz)"
+      year:    "2023 [IF:7.802]"
+      url:     "https://arxiv.org/pdf/2205.00908"   
+
     - title:   "Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection"
       author:  "Zhiwei Yang, **Peng Wu**^, Jing Liu^, Xiaotao Liu"
       conference: "European Conference on Computer Vision (ECCV)"
@@ -14,7 +35,7 @@ pubs:
       author:  "**Peng Wu**, Xiaotao Liu, Jing Liu^"
       conference: "IEEE Transactions on Multimedia (TMM)"
       note:    "(presented at Oz)"
-      year:    "2021 [IF:6.513]"
+      year:    "2022 [IF:6.513]"
       url:     "https://ieeexplore.ieee.org/abstract/document/9699377" 
       
     - title:   "A Multi-Task Learning based Neural Network for Defect Detection on Textured Surfaces under Weak Supervision"
