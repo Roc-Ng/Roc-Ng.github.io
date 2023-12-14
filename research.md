@@ -8,7 +8,7 @@ pubs:
       author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Lingru Zhou, Qingsen Yan,Peng Wang, Yanning Zhang"
       conference: "AAAI Conference on Artificial Intelligence (AAAI)"
       note:    "(presented at Oz)"
-      year:    "2024"
+      year:    "2024 [CCF-A]"
       url:     "https://arxiv.org/abs/2308.11681" 
       
     - title:   "WSAD-Net: Weakly Supervised Anomaly Detection in Untrimmed Surveillance Videos"
@@ -82,7 +82,7 @@ pubs:
       author:  "**Peng Wu**, Jing Liu^, Yujia Shi, Yujia Sun, Fangtao Shao, Zhaoyang Wu, Zhi Wei Yang"
       conference: "European Conference on Computer Vision (ECCV)"
       note:    "(presented at Oz)"
-      year:    "2020 [Top Conference]"
+      year:    "2020 [Top-tier Conference]"
       url:     "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750324.pdf"
       doi:     "http://dx.doi.org"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
