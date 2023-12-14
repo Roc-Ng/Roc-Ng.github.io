@@ -3,12 +3,20 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+
+    - title:   "VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection"
+      author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Lingru Zhou, Qingsen Yan,Peng Wang, Yanning Zhang"
+      conference: "AAAI Conference on Artificial Intelligence (AAAI)"
+      note:    "(presented at Oz)"
+      year:    "2024"
+      url:     "https://arxiv.org/abs/2308.11681" 
+      
     - title:   "WSAD-Net: Weakly Supervised Anomaly Detection in Untrimmed Surveillance Videos"
       author:  "**Peng Wu**, Yanning Zhang"
       conference: "International Conference on Image and Graphics (ICIG)"
       note:    "(presented at Oz)"
       year:    "2023"
-      url:     "https:" 
+      url:     "https://link.springer.com/chapter/10.1007/978-3-031-46317-4_22" 
      
     - title:   "Video Event Restoration Based on Keyframes for Video Anomaly Detection"
       author:  "Zhiwei Yang, Zhaoyang Wu, Jing Liu^, **Peng Wu**^, Xiaotao Liu"
