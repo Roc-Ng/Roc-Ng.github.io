@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEAM
+title: Team
 permalink: /team/
 ---
 
