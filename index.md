@@ -33,17 +33,18 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
++ [2023-12-17]  I am awarded the (**Excellent Doctoral Dissertation Award of CESE**)[http://159.226.65.5/cese_yjs/news/shownews.php?lang=cn&id=90], Thx to my advisor, Prof. Liu!
 + [2023-12-09]  8th paper is accepted to **AAAI** (CCF-A), Congrats to Xuerong!
 + [2023-06-16]  7th paper is accepted to **ICIG**
 + [2023-02-28]  one paper is accepted to **CVPR** (CCF-A), Congrats to Zhiwei!
 + [2023-01-05]  one paper is accepted to **EAAI**, Congrats to Minghui!
 + [2022-07-17]  one paper is accepted to **ECCV**, Congrats to Zhiwei!
 + [2022-01-26]  6th paper is accepted to **TMM** (IF: 6.513 ) 
-+ [2021-10-16]  I am awarded the **National Scholarship** (PhD), Thx for my advisor, Prof. Liu!
++ [2021-10-16]  I am awarded the **National Scholarship** (PhD), Thx to my advisor, Prof. Liu!
 + [2021-08-27]  one paper is accepted to **TIM**, Congrats to KuiKui!
 + [2021-08-18]  one paper is accepted to **PR**, Congrats to Fangtao!
 <!-- + [2021-07-20]  one paper is accepted to **IEEE ACCESS**, Congrats to Zhiwei! -->
-+ [2021-07-04]  5th paper is accepted to **ACM-MM** (CCF-A)，Thx for my mentor, Dr.He! 
++ [2021-07-04]  5th paper is accepted to **ACM-MM** (CCF-A)，Thx to my mentor, Dr.He! 
 + [2021-02-16]  4th paper is accepted to **TIP** (IF: 9.34, CCF-A) 
 + [2020-07-03]  3rd paper is accepted to **ECCV** 
 + [2020-06-23]  2nd paper is accepted to **PR** (IF: 7.196 )  
