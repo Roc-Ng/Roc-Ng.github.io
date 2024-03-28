@@ -4,8 +4,22 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Open-Vocabulary Video Anomaly Detection"
+      author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Yujia Sun, Jing Liu, Peng Wang, Yanning Zhang"
+      conference: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      note:    "(presented at Oz)"
+      year:    "2024 [CCF-A]"
+      url:     "https://arxiv.org/pdf/2311.07042" 
+
+    - title:   "Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model"
+      author:  "**Peng Wu**, Jing Liu, Xiangteng He, Yuxin Peng, Peng Wang, Yanning Zhang"
+      conference: "IEEE TRANSACTIONS ON IMAGE PROCESSING (TIP)"
+      note:    "(presented at Oz)"
+      year:    "2024 [CCF-A]"
+      url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10471334" 
+      
     - title:   "VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection"
-      author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Lingru Zhou, Qingsen Yan,Peng Wang, Yanning Zhang"
+      author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Lingru Zhou, Qingsen Yan, Peng Wang, Yanning Zhang"
       conference: "AAAI Conference on Artificial Intelligence (AAAI)"
       note:    "(presented at Oz)"
       year:    "2024 [CCF-A]"
