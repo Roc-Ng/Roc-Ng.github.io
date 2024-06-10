@@ -33,6 +33,8 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
++ [2024-06-07]  one paper is accepted to **TMM**, Congrats to Lingru!
++ [2024-04-13]  one paper is accepted to **TCSVT**, Congrats to Zhimin!
 + [2024-04-13]  one paper is accepted to **TOMM**, Congrats to Ruoyan! 
 + [2024-02-27]  one paper is accepted to **CVPR** (CCF-A), Congrats to Zhiwei! 
 + [2024-02-27]  10th paper is accepted to **CVPR** (CCF-A), Congrats to Xuerong!
