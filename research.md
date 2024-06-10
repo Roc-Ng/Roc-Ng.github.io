@@ -3,6 +3,19 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Human-centric Behavior Description in Videos: New Benchmark and Model"
+      author:  "Lingru Zhou, Yiqi Gao, Manqing Zhang, **Peng Wu**^, Peng Wang^ and Yanning Zhang"
+      conference: "IEEE Transactions on Multimedia (TMM)"
+      note:    "(presented at Oz)"
+      year:    "2024"
+      url:     "https://arxiv.org/abs/2310.02894" 
+
+    - title:   "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection"
+      author:  "Zhiwei Yang, Jing Liu, and **Peng Wu**"
+      conference: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      note:    "(presented at Oz)"
+      year:    "2024 [CCF-A]"
+      url:     "https://arxiv.org/abs/2404.08531" 
 
     - title:   "Open-Vocabulary Video Anomaly Detection"
       author:  "**Peng Wu**, Xuerong Zhou, Guansong Pang, Yujia Sun, Jing Liu, Peng Wang, Yanning Zhang"
