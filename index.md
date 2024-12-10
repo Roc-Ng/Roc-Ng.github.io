@@ -33,6 +33,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Tem
 ------
 
 ### News
++ [2024-12-10]  12th paper is accepted to **AAAI** (CCF-A), Congrats to Wanshun!
 + [2024-07-16]  11th paper is accepted to **ACMMM** (CCF-A), Congrats to Xuerong!
 + [2024-06-07]  one paper is accepted to **TMM**, Congrats to Lingru!
 + [2024-04-13]  one paper is accepted to **TCSVT**, Congrats to Zhimin!
