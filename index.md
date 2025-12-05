@@ -22,7 +22,7 @@ Google Scholar: [[Google Scholar](https://scholar.google.com.hk/citations?user=Q
 
 ### Biography
 
-<span style="float:justify">I am currently a tenure-track associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html)), Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7).Besides, I was a Program Committee Member of [VAND 2.0](https://sites.google.com/view/vand-2-0-cvpr-2024/home)@CVPR 2024 workshop. </span> 
+<span style="float:justify">I am currently a tenure-track associate professor at National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology（led by Prof. [Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html)), Northwestern Polytechnical University. I received my Ph.D. degree from the School of Artificial Intelligence [(SAI)](http://sai.xidian.edu.cn/) and Guangzhou Institude of Technology [(GIT)](https://gzyjy.xidian.edu.cn/index.htm), Xidian University in 2022, advised by Prof. [Jing Liu](http://web.xidian.edu.cn/liujing/), and B.Eng from School of Electronic Engineering, Xidian University in 2017. I was a Research Intern of Alibaba DAMO Academy supervised by Dr. [Xiangteng He](https://hexiangteng.github.io/) (2020-12--2021-7).Besides, I was a Program Committee Member of [VAND 2.0](https://sites.google.com/view/vand-2-0-cvpr-2024/home)@CVPR 2024 and [VAND 3.0](https://sites.google.com/view/vand30cvpr2025)@CVPR 2025 workshops. </span> 
 
 ---
 
@@ -33,6 +33,8 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Vis
 ------
 
 ### News
++ [2025-12-05]  one paper is accepted to **TIP** (CCF-A), Congrats to Yujia!
++ [2025-12-03]  one paper is accepted to **NEUCOM**, Congrats to Yuzhou!
 + [2025-11-10]  one paper is accepted to **AAAI** (CCF-A), Congrats to Lingru!
 + [2025-06-10]  one paper is accepted to **TCSVT** (CCF-A), Congrats to Yujia!
 + [2024-12-10]  12th paper is accepted to **AAAI** (CCF-A), Congrats to Wanshun!
