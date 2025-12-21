@@ -33,6 +33,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Vis
 ------
 
 ### News
++ [2025-12-19]  one paper is accepted to **TNNLS**, Congrats to Chengyu and Yuting!
 + [2025-12-05]  one paper is accepted to **TIP** (CCF-A), Congrats to Yujia!
 + [2025-12-03]  one paper is accepted to **NEUCOM**, Congrats to Yuzhou!
 + [2025-11-10]  one paper is accepted to **AAAI** (CCF-A), Congrats to Lingru!
