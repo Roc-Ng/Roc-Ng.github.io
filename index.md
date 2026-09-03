@@ -33,6 +33,7 @@ Computer Vision and Deep Learning: Video Anomaly Detection; Video Retrieval; Vis
 ------
 
 ### News
++ [2026-09-03]  one paper is accepted to **PR**, Congrats to Wanshun&Dingyi!
 + [2026-06-18]  one paper is accepted to **ECCV**, Congrats to Yuting!
 + [2026-06-16]  one paper is accepted to **TOMM**, Congrats to Chengyu!
 + [2026-03-24]  one paper is accepted to **TMM**(CCF-A), Congrats to Wanshun!
